@@ -6,7 +6,7 @@ html {
 
 body {
 background-color: #2f3035;
-background-image: url(https://i.imgur.com/gdWrMHj.jpeg);
+background-image: url("https://i.imgur.com/gdWrMHj.jpeg");
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
